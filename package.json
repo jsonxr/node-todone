@@ -1,0 +1,19 @@
+{
+  "name": "todone",
+  "version": "0.0.1",
+  "description": "Task management ui",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonxr/node-todone.git"
+  },
+  "author": "Jason Rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsonxr/node-todone/issues"
+  },
+  "homepage": "https://github.com/jsonxr/node-todone#readme"
+}
